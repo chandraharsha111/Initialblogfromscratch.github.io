@@ -28,7 +28,7 @@ $(document).ready(function() {
 	            items:3
             },
             938: {
-                items: 6
+                items: 4
             }
 	    }
 	});
